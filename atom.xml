@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>编程之旅</title>
+  
+  <subtitle>编程之旅</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://zhangwenhao-sudo.github.io/"/>
+  <updated>2020-03-20T03:44:24.277Z</updated>
+  <id>https://zhangwenhao-sudo.github.io/</id>
+  
+  <author>
+    <name>rep-rebirth</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>html5（一）</title>
+    <link href="https://zhangwenhao-sudo.github.io/2020/03/08/html5-yi/"/>
+    <id>https://zhangwenhao-sudo.github.io/2020/03/08/html5-yi/</id>
+    <published>2020-03-08T08:48:21.000Z</published>
+    <updated>2020-03-20T03:44:24.277Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;使用软件&quot;&gt;&lt;a href=&quot;#使用软件&quot; class=&quot;headerlink&quot; title=&quot;使用软件&quot;&gt;&lt;/a&gt;使用软件&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Visual Studio Code&lt;/strong&gt;&lt;br&gt;好处：丰富的插件等&lt;/p&gt;
+&lt;h2
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="html" scheme="https://zhangwenhao-sudo.github.io/tags/html/"/>
+    
+      <category term="前端" scheme="https://zhangwenhao-sudo.github.io/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Android智能手机编程（二）</title>
+    <link href="https://zhangwenhao-sudo.github.io/2020/03/05/android-zhi-neng-shou-ji-bian-cheng-er/"/>
+    <id>https://zhangwenhao-sudo.github.io/2020/03/05/android-zhi-neng-shou-ji-bian-cheng-er/</id>
+    <published>2020-03-05T05:48:21.000Z</published>
+    <updated>2020-03-16T11:22:01.386Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;Android项目的结构目录&quot;&gt;&lt;a href=&quot;#Android项目的结构目录&quot; class=&quot;headerlink&quot; title=&quot;Android项目的结构目录&quot;&gt;&lt;/a&gt;Android项目的结构目录&lt;/h2&gt;&lt;h3 id=&quot;res&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="Android" scheme="https://zhangwenhao-sudo.github.io/tags/Android/"/>
+    
+      <category term="手机编程" scheme="https://zhangwenhao-sudo.github.io/tags/%E6%89%8B%E6%9C%BA%E7%BC%96%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>面向对象分析与设计（一）</title>
+    <link href="https://zhangwenhao-sudo.github.io/2020/03/04/mian-xiang-dui-xiang-fen-xi-yu-she-ji-yi/"/>
+    <id>https://zhangwenhao-sudo.github.io/2020/03/04/mian-xiang-dui-xiang-fen-xi-yu-she-ji-yi/</id>
+    <published>2020-03-04T06:13:10.000Z</published>
+    <updated>2020-03-04T09:28:37.840Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;第一章-面向对象概述&quot;&gt;&lt;a href=&quot;#第一章-面向对象概述&quot; class=&quot;headerlink&quot; title=&quot;第一章 面向对象概述&quot;&gt;&lt;/a&gt;第一章 面向对象概述&lt;/h1&gt;&lt;h2 id=&quot;序言&quot;&gt;&lt;a href=&quot;#序言&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="面向对象" scheme="https://zhangwenhao-sudo.github.io/tags/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Android智能手机编程（一）</title>
+    <link href="https://zhangwenhao-sudo.github.io/2020/03/04/android-zhi-neng-shou-ji-bian-cheng-yi/"/>
+    <id>https://zhangwenhao-sudo.github.io/2020/03/04/android-zhi-neng-shou-ji-bian-cheng-yi/</id>
+    <published>2020-03-04T01:08:21.000Z</published>
+    <updated>2020-03-05T05:49:34.017Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;Android智能手机编程（一）&quot;&gt;&lt;a href=&quot;#Android智能手机编程（一）&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="Android" scheme="https://zhangwenhao-sudo.github.io/tags/Android/"/>
+    
+      <category term="手机编程" scheme="https://zhangwenhao-sudo.github.io/tags/%E6%89%8B%E6%9C%BA%E7%BC%96%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Linux 命令</title>
+    <link href="https://zhangwenhao-sudo.github.io/2020/02/27/linux-ming-ling/"/>
+    <id>https://zhangwenhao-sudo.github.io/2020/02/27/linux-ming-ling/</id>
+    <published>2020-02-27T07:14:24.000Z</published>
+    <updated>2020-03-03T13:55:10.532Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+      <category term="linux" scheme="https://zhangwenhao-sudo.github.io/tags/linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>学生信息管理系统</title>
+    <link href="https://zhangwenhao-sudo.github.io/2020/02/27/xue-sheng-xin-xi-guan-li-xi-tong/"/>
+    <id>https://zhangwenhao-sudo.github.io/2020/02/27/xue-sheng-xin-xi-guan-li-xi-tong/</id>
+    <published>2020-02-27T06:13:09.000Z</published>
+    <updated>2020-03-03T13:49:36.582Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;1、学生信息管理系统  2、学生选课信息系统   3、学生签到考勤系统 
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="MySQL" scheme="https://zhangwenhao-sudo.github.io/tags/MySQL/"/>
+    
+      <category term="java" scheme="https://zhangwenhao-sudo.github.io/tags/java/"/>
+    
+      <category term="JSP" scheme="https://zhangwenhao-sudo.github.io/tags/JSP/"/>
+    
+      <category term="Servlet" scheme="https://zhangwenhao-sudo.github.io/tags/Servlet/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>MYSQL 专题一</title>
+    <link href="https://zhangwenhao-sudo.github.io/2020/02/27/mysql-zhuan-ti-yi/"/>
+    <id>https://zhangwenhao-sudo.github.io/2020/02/27/mysql-zhuan-ti-yi/</id>
+    <published>2020-02-27T05:45:39.000Z</published>
+    <updated>2020-03-03T13:57:54.534Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;MYSQL之旅&quot;&gt;&lt;a href=&quot;#MYSQL之旅&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="数据库" scheme="https://zhangwenhao-sudo.github.io/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    
+      <category term="MySQL" scheme="https://zhangwenhao-sudo.github.io/tags/MySQL/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Markdown语法</title>
+    <link href="https://zhangwenhao-sudo.github.io/2020/02/23/markdown-yu-fa/"/>
+    <id>https://zhangwenhao-sudo.github.io/2020/02/23/markdown-yu-fa/</id>
+    <published>2020-02-23T12:08:21.000Z</published>
+    <updated>2020-03-20T03:45:56.610Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;Markdown背景&quot;&gt;&lt;a href=&quot;#Markdown背景&quot; class=&quot;headerlink&quot; title=&quot;Markdown背景&quot;&gt;&lt;/a&gt;Markdown背景&lt;/h2&gt;&lt;p&gt;Markdown
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Markdown" scheme="https://zhangwenhao-sudo.github.io/categories/Markdown/"/>
+    
+    
+      <category term="Hexo" scheme="https://zhangwenhao-sudo.github.io/tags/Hexo/"/>
+    
+      <category term="Markdown" scheme="https://zhangwenhao-sudo.github.io/tags/Markdown/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo博客搭建和matery主题</title>
+    <link href="https://zhangwenhao-sudo.github.io/2020/02/20/hexo-bo-ke-da-jian-he-matery-zhu-ti/"/>
+    <id>https://zhangwenhao-sudo.github.io/2020/02/20/hexo-bo-ke-da-jian-he-matery-zhu-ti/</id>
+    <published>2020-02-20T05:50:21.000Z</published>
+    <updated>2020-03-02T06:44:23.617Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;Hexo博客&quot;&gt;&lt;a href=&quot;#Hexo博客&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Hexo博客" scheme="https://zhangwenhao-sudo.github.io/categories/Hexo%E5%8D%9A%E5%AE%A2/"/>
+    
+    
+      <category term="Hexo" scheme="https://zhangwenhao-sudo.github.io/tags/Hexo/"/>
+    
+      <category term="matery" scheme="https://zhangwenhao-sudo.github.io/tags/matery/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>灵魂寄托所</title>
+    <link href="https://zhangwenhao-sudo.github.io/2020/02/20/ling-hun-ji-tuo-suo/"/>
+    <id>https://zhangwenhao-sudo.github.io/2020/02/20/ling-hun-ji-tuo-suo/</id>
+    <published>2020-02-20T05:50:21.000Z</published>
+    <updated>2020-03-04T06:18:24.198Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h3 id=&quot;重逢故居，所见尽朦胧&quot;&gt;&lt;a href=&quot;#重逢故居，所见尽朦胧&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="回忆录" scheme="https://zhangwenhao-sudo.github.io/categories/%E5%9B%9E%E5%BF%86%E5%BD%95/"/>
+    
+    
+      <category term="回忆" scheme="https://zhangwenhao-sudo.github.io/tags/%E5%9B%9E%E5%BF%86/"/>
+    
+      <category term="小时候" scheme="https://zhangwenhao-sudo.github.io/tags/%E5%B0%8F%E6%97%B6%E5%80%99/"/>
+    
+      <category term="启蒙" scheme="https://zhangwenhao-sudo.github.io/tags/%E5%90%AF%E8%92%99/"/>
+    
+  </entry>
+  
+</feed>
